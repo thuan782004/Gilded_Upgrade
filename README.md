@@ -1,5 +1,5 @@
-# GildedUpgrade
-
+# GildedUpgrade 
+[Discord for quick help](https://discord.gg/H2Ca3xjF)
 ### Quick start:
 
 ### 1. Make a generator
