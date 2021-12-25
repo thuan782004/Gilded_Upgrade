@@ -30,7 +30,7 @@ upgrade of the item. The rate of success is calculated as follows:
 - Start with the one with the value is 50. 0+(100-0)*(50/(50+100)) -> Rate is now 33,(3)%
 - Continue with the one whose value is 100. 33,(3)+(100-33,(3))*(100/(100+100)) -> Rate is now 66,(6)%
 - Continue with the one whose value is 75. You can calculate it yourself ;) (Rate is now 80,95%)
-#### 2. What is ticket?
+#### 2. What is ticket? <removed>
 A final level item can be upgraded to one or more different items. The ticket will ensure that
 the item is upgraded to the first item in the line with the same id as the ticket's id.
 Very simple. Right?
@@ -41,7 +41,7 @@ the player to use that series of items anymore, you can tweak the generator to t
 series of items into something useless. ;)
 ### Syntax:
 ###### Tree
-The trees are configured in the trees.yml file.
+The trees are configured in the config.yml file.
 It is very simple. Let me take an example:
 ```tr-Sword:
 li-Wooden_Sword:
